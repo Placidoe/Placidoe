@@ -15,6 +15,15 @@
   <img src="https://img.shields.io/badge/mindset-measure%20%3E%20guess-00D9FF?style=for-the-badge&labelColor=0B0F19" alt="Mindset: measure greater than guess" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Placidoe?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=Placidoe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=7C4DFF&text_color=C9D1D9&bg_color=0D1117" alt="Placidoe's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Placidoe?tab=repositories">
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Placidoe&layout=compact&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="Most-used languages across public repositories" />
+  </a>
+</p>
+
 ## `whoami`
 
 I am an R&D engineer on the **CapCut team at ByteDance**, with a personal focus on AI infrastructure and models. I learn by shipping small systems, inspecting their bottlenecks, and keeping experiments reproducible.
@@ -35,6 +44,22 @@ observe → benchmark → profile → optimize → document → repeat
 ## `stack`
 
 `Python` · `Go` · `Java` · `CUDA` · `PyTorch` · `vLLM` · `LLM Serving` · `Docker` · `GitHub Actions`
+
+## `featured_work`
+
+| Project | What it is |
+| :-- | :-- |
+| [**vLLM T4 Lab**](https://github.com/Placidoe/vllm-t4-lab) | Reproducible vLLM experiments and system notes for Kaggle T4 GPUs. |
+| [**JEV RSI Lab**](https://github.com/Placidoe/jev-rsi-lab) | Policy-gated Memory-RSI experiments on public and synthetic data. |
+| [**AI Systems Notes**](https://placidoe.github.io/) | A public notebook for experiments, benchmarks, and performance notes. |
+
+## `contribution_pulse`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Placidoe/Placidoe/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Placidoe/Placidoe/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated path through Placidoe's contribution graph" src="https://raw.githubusercontent.com/Placidoe/Placidoe/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## `lab_notes`
 
