@@ -15,15 +15,6 @@
   <img src="https://img.shields.io/badge/mindset-measure%20%3E%20guess-00D9FF?style=for-the-badge&labelColor=0B0F19" alt="Mindset: measure greater than guess" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Placidoe?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=Placidoe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=7C4DFF&text_color=C9D1D9&bg_color=0D1117" alt="Placidoe's GitHub statistics" />
-  </a>
-  <a href="https://github.com/Placidoe?tab=repositories">
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Placidoe&layout=compact&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="Most-used languages across public repositories" />
-  </a>
-</p>
-
 ## `whoami`
 
 I am an R&D engineer on the **CapCut team at ByteDance**, with a personal focus on AI infrastructure and models. I learn by shipping small systems, inspecting their bottlenecks, and keeping experiments reproducible.
